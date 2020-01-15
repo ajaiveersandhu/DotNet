@@ -1,0 +1,10 @@
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.exe
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.deps.json
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.runtimeconfig.json
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.runtimeconfig.dev.json
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.dll
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\netcoreapp3.0\MyHelloWorldApp.pdb
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\netcoreapp3.0\MyHelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\netcoreapp3.0\MyHelloWorldApp.AssemblyInfo.cs
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\netcoreapp3.0\MyHelloWorldApp.dll
+C:\Users\ksandhu3489\Desktop\DotNet\InClass1\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\netcoreapp3.0\MyHelloWorldApp.pdb
